@@ -1,0 +1,1 @@
+{'przykladowy': 1, 'Wszystko': 1, 'tu': 1, 'co': 1, 'potrzeby': 1, 'tekst': 1, 'na': 1, 'Oto': 1, 'tajne.': 1, 'laboratorium.': 1, 'zosta\xb3o': 1, 'jest': 2, 'napisane': 1}{'przykladowy': 1, 'Wszystko': 1, 'tu': 1, 'co': 1, 'potrzeby': 1, 'tekst': 1, 'na': 1, 'Oto': 1, 'tajne.': 1, 'laboratorium.': 1, 'zosta\xb3o': 1, 'jest': 2, 'napisane': 1}
